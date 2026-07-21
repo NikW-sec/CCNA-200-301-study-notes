@@ -25,6 +25,7 @@ These are personal study notes, not official Cisco material or a substitute for 
 ## Credits
 
 All original teaching content and credit belong to [Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab) 
+I also highly recommend his CCNA books and pratice exams on Udemy (if you dont have Boson)
 
 
 
