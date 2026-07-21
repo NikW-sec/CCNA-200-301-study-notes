@@ -20,7 +20,7 @@ This my personal study notes for the CCNA 200-301, based on **Jeremy’s IT Lab 
 
 ## Disclaimer
 
-These are personal study notes, not official Cisco material or a substitute for the full course. They may contain simplifications, errors. I personally recommend using my notes as a way to quick review topics, not as the primary source of your study
+These are personal study notes, not official Cisco material or a substitute for the full course. They may contain simplifications, errors. I personally recommend using my notes as a way to quickly review topics, not as the primary source of your study
 
 ## Credits
 
